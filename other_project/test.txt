@@ -1,0 +1,1 @@
+This should be a random other project that isn't in the root folder and won't conflict with the xcode project
